@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# runtime
+*.log
+*.log.old
+*.pid
+bot.pid
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
